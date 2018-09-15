@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: Probably - BestPriestLegion
+## Notes: ProbablyEngine Custom Priest Bundle
+## Author: ZoDDeL
+## Dependencies: Probably
+
+discipline.lua
+holy.lua
+shadow.lua
