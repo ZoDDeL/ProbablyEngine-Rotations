@@ -1,0 +1,51 @@
+BestPriestLegion 7.1.5
+----------------------
+
+
+1.
+Discipline:
+was the original prototype for the other rotations.
+
+STRONG at:
+Survivability
+Healing/Shielding while moving
+SingleTarget Damage output (for a Heal)
+PVP (as long you have mana)
+5-Man Dungeons
+Solo-ing Group Quests
+Solo-ing Dungeonbosses while the rest of the party fails...
+
+WEAK at:
+Raidheal because of high manacost (7.1.5)
+AOE Damage Output(no native aoe spells in this spec...)
+
+
+
+2.
+Shadow:
+made for faster questing.
+
+STRONG at:
+Slow Bossfights with minimum movement
+Questing 100-110
+
+
+WEAK at:
+Survivablity
+PVP (in my opinion its a glasscannon who needs stand still)
+Quick Damage because of casttimes/channeling and dots and the insanity mechanic.
+nearly zero damage output while moving.
+
+
+
+3.
+Holy:
+made as an option for Raidheal
+
+STRONG at:
+Raidheal (many different usefull heals/hots from cheap efficiant to expensive high heals)
+
+
+WEAK at:
+Surviabilty (aside selfheal this spec just meltdown on burstDMG)
+PVP (when you get focused you are dead. no fun at all in pvp)
